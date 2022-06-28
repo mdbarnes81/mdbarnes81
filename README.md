@@ -1,4 +1,7 @@
 # Matthew Barnes
+
+🛈 .NET / Dynamics 365 / Power Platform developer
+<br>
 🔗 [mdbarnes.co.uk](http://mdbarnes.co.uk)
 
 <!---
