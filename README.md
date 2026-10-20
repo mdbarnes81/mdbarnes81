@@ -2,7 +2,8 @@
 
 🛈 .NET / Dynamics 365 / Power Platform developer
 <br>
-🔗 [mdbarnes.co.uk](http://mdbarnes.co.uk)
+🔗 [mdbarnes.dev](https://mdbarnes.dev)
+🔗 [LinkedIn](https://www.linkedin.com/in/mdbarnes81/)
 
 <!---
 mdbarnes81/mdbarnes81 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
