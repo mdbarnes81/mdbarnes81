@@ -2,7 +2,9 @@
 
 🛈 .NET / Dynamics 365 / Power Platform developer
 <br>
+<br>
 🔗 [mdbarnes.dev](https://mdbarnes.dev)
+<br>
 🔗 [LinkedIn](https://www.linkedin.com/in/mdbarnes81/)
 
 <!---
